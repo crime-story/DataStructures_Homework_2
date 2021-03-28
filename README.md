@@ -1,7 +1,7 @@
 # DataStructures_Homework_2
 ## Popescu Paullo Robertto Karloss
 ### Grupa 131
-#### Algoritmi de sortare:
+#### Probleme rezolvate:
   1. Deque
   2. Paranteze
   3. Vila 2
