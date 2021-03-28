@@ -8,6 +8,6 @@
 ### Pe prima linie a fisierului de iesire branza.out se afla un singur numar intreg reprezentand costul minim necesar pentru ca taranul sa poata satisface cerinta de branza.
 
 ## Restricţii şi precizări:
-    1. 1 ≤ N, T ≤ 100 000
-    2. 1 ≤ S ≤ 100
-    3. 1 ≤ Ci, Pi ≤ 10 000 000
+    1 ≤ N, T ≤ 100 000
+    1 ≤ S ≤ 100
+    1 ≤ Ci, Pi ≤ 10 000 000

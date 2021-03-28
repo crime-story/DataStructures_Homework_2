@@ -11,6 +11,6 @@
 ### Pe prima linie a fişierului de ieşire alibaba.out se va scrie numărul diamantelor pe care le va putea lua hoţul.
 
 ## Restricţii şi precizări:
-    1. 1 ≤ N ≤ 10 000
-    2. 0 ≤ K ≤ N-1
-    3. Notând cu c1c2...cN şirul cifrelor numărului scris pe ladă, 0 ≤ ci ≤ 9, i = 1, 2, ..., N.
+    1 ≤ N ≤ 10 000
+    0 ≤ K ≤ N-1
+    Notând cu c1c2...cN şirul cifrelor numărului scris pe ladă, 0 ≤ ci ≤ 9, i = 1, 2, ..., N.
