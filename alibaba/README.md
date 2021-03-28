@@ -1,4 +1,4 @@
-# Alibaba
+# Alibaba [link infoarena](https://www.infoarena.ro/problema/alibaba)
 ### Ali Baba i-a surprins pe cei 40 de hoţi cotrobăind printre comorile lui. Aceştia erau mulţi, el era singur, în concluzie a încercat să se înţeleagă cu ei. Printre comori era o ladă specială pe care a fost notat numărul diamantelor aflate în interior. Ali Baba a propus conducătorului hoţilor să taie din reprezentarea numărului K cifre, urmând să le cedeze hoţilor atâtea diamante cât reprezintă numărul care rămâne după tăiere.
 
 ## Cerinţă
