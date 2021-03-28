@@ -11,7 +11,7 @@
 ### In fisierul de iesire deque.out se va afla un singur numar intreg reprezentand suma ceruta.
 
 ## Restricţii şi precizări:
-    1. 1 ≤ N ≤ 5 000 000
-    2. 1 ≤ K ≤ N
-    3. Elementele din sir vor avea valori cuprinse intre -10 000 000 si 10 000 000
-    4. Pentru rezultat se recomanda folosirea tipurilor intregi pe 64 de biti
+    1 ≤ N ≤ 5 000 000
+    1 ≤ K ≤ N
+    Elementele din sir vor avea valori cuprinse intre -10 000 000 si 10 000 000
+    Pentru rezultat se recomanda folosirea tipurilor intregi pe 64 de biti

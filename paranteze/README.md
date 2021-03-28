@@ -16,5 +16,5 @@
 ### Fişierul de ieşire paranteze.out conţine lungimea maximă a unei secvenţe corect parantezată.
 
 ## Restricţii şi precizări:
-    1. 1 ≤ N ≤ 1 000 000
-    2. Pentru 50% din teste N ≤ 1 000
+    1 ≤ N ≤ 1 000 000
+    Pentru 50% din teste N ≤ 1 000
